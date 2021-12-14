@@ -1,0 +1,6 @@
+package com.privado.express
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
